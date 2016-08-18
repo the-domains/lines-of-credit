@@ -6,9 +6,9 @@ color:
   saturation: 0.5430224477313459
   rhythmicContrast: 0.6166993209626526
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: Lines of Credit
