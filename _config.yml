@@ -1,4 +1,3 @@
-layout_spectrum: 0.023633430479094386
 typography_spectrum: 0.9913300413172692
 color:
   brandStrength: 0.46550366724841297
@@ -11,4 +10,9 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.023633430479094386
 name: Lines of Credit
+navigation:
+  - name: 'Reduced Spoke Bicycles : Conceptual Bike'
+    id: 1d864be9-f5d6-4d5e-a85f-5b4b2177569d
+    type: content
