@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Lines of Credit]]></title>
         <description><![CDATA[Lines of Credit]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lines-of-credit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 17:39:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 01 Sep 2016 06:08:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lines-of-credit/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Reduced Spoke Bicycles : Conceptual Bike]]></title>
             <description><![CDATA[<article><h1>Reduced Spoke Bicycles : Conceptual Bike</h1><p>Conceptual Bike - Ion Lucin has simplified the design of a standard two-wheeler with his conceptual bike Baik that opts for three-spoked wheels, a limited use of lin...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11d821ce44263ec917e4ecde74cfe3ebb341c975.jpg"></article>]]></description>
-            <link>http://www.trendhunter.com/trends/conceptual-bike</link>
+            <link>https://thegrid.ai/lines-of-credit/reduced-spoke-bicycles-conceptual-bike/index.html</link>
             <guid isPermaLink="false">1d864be9-f5d6-4d5e-a85f-5b4b2177569d</guid>
-            <pubDate>Thu, 18 Aug 2016 17:39:36 GMT</pubDate>
+            <pubDate>Thu, 01 Sep 2016 06:08:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
